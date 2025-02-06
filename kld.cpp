@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-cout << "moka is very good" << endl;
+cout << "moka is not good, but it is great" << endl;
 
 return 0;
 }
